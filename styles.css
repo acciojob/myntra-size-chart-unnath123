@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table{
+	width:60%;
+}
+.first{
+	background-color:darkred;
+	color:white;
+}
